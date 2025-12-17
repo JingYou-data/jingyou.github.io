@@ -1,6 +1,6 @@
 # Jing You - Data Engineering Portfolio
 
-🌐 **Live Site**: [jingyou.github.io](https://jingyou.github.io)
+🌐 **Live Site**: [jingyou-data.github.io](https://jingyou-data.github.io)
 
 ## About This Site
 
@@ -32,9 +32,6 @@ bundle exec jekyll serve
 
 ## Contact
 
-- 📧 Email: [your-email]
-- 💼 LinkedIn: [your-linkedin]
-- 🐙 GitHub: [@your-username](https://github.com/your-username)
 
 ## License
 
