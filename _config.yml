@@ -1,11 +1,11 @@
 # Site Settings
 title: Jing You | Data Engineering
-description: >-
-  Data Engineer transitioning from hospitality management. 
-  Building ETL pipelines, integrating APIs, and learning in public.
-  
+description: Transitioning from hospitality management to data engineering
 author: Jing You
 email: jingliuyou@gmail.com
+
+# Theme
+theme: minima
 
 # Social Links
 github_username: https://github.com/JingYou-data
@@ -13,13 +13,20 @@ linkedin_username: https://www.linkedin.com/in/jing-you84/
 
 # Build Settings
 markdown: kramdown
-theme: minima
 
 # Plugins
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
+# Navigation (for minima theme)
+header_pages:
+  - index.md
+  - about.md
+
+# Show excerpts on home page
+show_excerpts: true
+  
 # Exclude from processing
 exclude:
   - README.md
