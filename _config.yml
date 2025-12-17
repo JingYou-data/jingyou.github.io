@@ -1,0 +1,38 @@
+# Site Settings
+title: Jing You | Data Engineering
+description: >-
+  Data Engineer transitioning from hospitality management. 
+  Building ETL pipelines, integrating APIs, and learning in public.
+  
+author: Jing You
+email: your-email@example.com
+
+# Social Links
+github_username: your-username
+linkedin_username: your-linkedin-profile
+
+# Build Settings
+markdown: kramdown
+theme: minima
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Exclude from processing
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+
+# Timezone
+timezone: America/Chicago
+
+# Permalink style
+permalink: /posts/:title/
+
+# Google Analytics (optional)
+# google_analytics: UA-XXXXXXXXX-X
